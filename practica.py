@@ -46,6 +46,7 @@ def validar_email(email):
     """
     pass
 
+    
 
 # =============================================================================
 # FUNCIÓN 2: Análisis de palabras en un texto
